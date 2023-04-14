@@ -1,1 +1,1 @@
-![AISophon github stats](https://github-readme-stats-hssi0xign-AISophon.vercel.app/api?username=AISophon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AISophon)](https://github.com/anuraghazra/github-readme-stats)
